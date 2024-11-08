@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Franco\\Documents\\Franco\\VS Code\\C#\\TP-Leandro\\TP-Leandro.csproj",
+      "projectUniqueName": "C:\\Users\\Franco\\OneDrive\\Documents\\CURSO DE DEV\\New folder\\Leandro_tp\\Leandro_tp\\TP-Leandro\\TP-Leandro.csproj",
       "projectName": "TP-Leandro",
-      "projectPath": "C:\\Users\\Franco\\Documents\\Franco\\VS Code\\C#\\TP-Leandro\\TP-Leandro.csproj",
+      "projectPath": "C:\\Users\\Franco\\OneDrive\\Documents\\CURSO DE DEV\\New folder\\Leandro_tp\\Leandro_tp\\TP-Leandro\\TP-Leandro.csproj",
       "packagesPath": "C:\\Users\\Franco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Franco\\Documents\\Franco\\VS Code\\C#\\TP-Leandro\\obj\\",
+      "outputPath": "C:\\Users\\Franco\\OneDrive\\Documents\\CURSO DE DEV\\New folder\\Leandro_tp\\Leandro_tp\\TP-Leandro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Franco\\AppData\\Roaming\\NuGet\\NuGet.Config"

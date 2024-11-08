@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP-Leandro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a36778ef7932ed0140e7cb890e2b674859622dd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP-Leandro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP-Leandro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
